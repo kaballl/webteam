@@ -1,0 +1,19 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    
+    
+    
+}
+.big{
+    font-size: 48pt;
+    color: firebrick;
+}
+.large{
+    font-size: 20pt;
+    color: rgb(163, 106, 20);
+
+}
+.center{
+     text-align: center;
+}
